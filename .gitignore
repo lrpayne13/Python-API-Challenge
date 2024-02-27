@@ -1,11 +1,14 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
 ```text
     # Adding config.py file.
     api_keys.py
     ```
+# Ignore the file where API keys are stored
+api_keys.py
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 # C extensions
 *.so
 
