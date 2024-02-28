@@ -1,5 +1,5 @@
 # Ignore the file where API keys are stored
-api_keys.py
+/Starter_code/starter_code/api_keys.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
